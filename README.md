@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/bamossza/hello-bamossza.svg?branch=master)](https://travis-ci.org/bamossza/hello-bamossza)
+
 # hello-bamossza
 
 ```shell

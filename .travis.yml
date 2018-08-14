@@ -1,0 +1,22 @@
+sudo: required
+addons:
+  chrome: stable
+
+language: node_js
+node_js:
+- "10"
+
+branches:
+  only:
+  - master
+
+before_script:
+- npm install
+
+script:
+- npm test
+
+#deploy:
+#  provider: heroku
+#  api_key:
+#    secure: "YOUR ENCRYPTED API KEY"
