@@ -1,8 +1,8 @@
 {
   "name": "hello-bamossza",
-  "version": "1.0.0",
-  "description": "test npm library ",
-  "main": "src/hello-nextzy.js",
+  "version": "1.0.1",
+  "description": "test npm library fixed code #1",
+  "main": "src/hello-bamossza.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
