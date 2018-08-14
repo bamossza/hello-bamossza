@@ -19,5 +19,6 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/bamossza/hello-bamossza/issues"
-  }
+  },
+  "homepage": "https://github.com/bamossza/hello-bamossza/blob/master/README.md"
 }
