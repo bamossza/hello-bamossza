@@ -1,1 +1,3 @@
-module.exports = (value) => value;
+module.exports = (value) => {
+    return value
+}
