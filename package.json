@@ -1,6 +1,6 @@
 {
   "name": "hello-bamossza",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "test npm library fixed code #1",
   "main": "src/hello-bamossza.js",
   "scripts": {
